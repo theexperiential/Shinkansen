@@ -16,6 +16,21 @@ module.exports = {
       'bg-selected': {
         DEFAULT: '#4D8AA0',
         dark: '#4D8AA0',
+      },
+      'bg-selected-hover': {
+        DEFAULT: '#9fbcc6',
+        dark: '#9fbcc6'
+      },
+      'bg-unselected': {
+        DEFAULT: 'rgba(59, 125, 149, 0.25)',
+        dark: 'rgba(59, 125, 149, 0.25)'
+      },
+      'txt-unselected': {
+        DEFAULT: '#A4C8D5',
+        dark: '#A4C8D5'
+      },
+      'txt-hover': {
+        DEFAULT: '#002A34'
       }
     }
   },
