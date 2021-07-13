@@ -29,6 +29,10 @@ module.exports = {
         DEFAULT: '#A4C8D5',
         dark: '#A4C8D5'
       },
+      'txt-selected': {
+        DEFAULT: '#FFFFFF',
+        dark: '#FFFFFF'
+      },
       'txt-hover': {
         DEFAULT: '#002A34'
       }
