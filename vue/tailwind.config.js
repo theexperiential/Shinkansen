@@ -6,6 +6,11 @@ module.exports = {
   ],
   darkMode: 'media', // or 'media' or 'class'
   theme: {
+    extend: {
+      fontFamily: {
+        'sans': ['Public Sans', 'Roboto', 'Helvetica', 'Arial', 'sans-serif']
+      }
+    },
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
@@ -39,6 +44,10 @@ module.exports = {
       },
       'txt-hover': {
         DEFAULT: '#002A34'
+      },
+      'yellow': {
+        DEFAULT: '#E1BC29',
+        dark: '#E1BC29'
       }
     }
   },
