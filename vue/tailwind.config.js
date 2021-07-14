@@ -25,6 +25,10 @@ module.exports = {
         DEFAULT: 'rgba(59, 125, 149, 0.25)',
         dark: 'rgba(59, 125, 149, 0.25)'
       },
+      'bg-med': {
+        DEFAULT: '#2D5061',
+        dark: '#2D5061'
+      },
       'txt-unselected': {
         DEFAULT: '#A4C8D5',
         dark: '#A4C8D5'
