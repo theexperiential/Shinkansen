@@ -1,14 +1,18 @@
 <template>
-  <div class="w-screen h-16 space-x-2 py-2 pr-2">
-      <StateTab />  
+  <div class="w-screen h-16 flex space-x-2 py-2 pr-2 ">
+        <StateTab />
+        <StateTab />
+        <AddBtn /> 
   </div>
 </template>
 
 <script>
 import StateTab from './StateTab.vue'
+import AddBtn from './AddBtn.vue'
 export default {
     components: {
-        StateTab
+        StateTab,
+        AddBtn
     }
 }
 </script>
