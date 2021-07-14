@@ -1,0 +1,11 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.5 14C21.5 18.1421 18.1421 21.5 14 21.5C9.85786 21.5 6.5 18.1421 6.5 14C6.5 9.85786 9.85786 6.5 14 6.5C18.1421 6.5 21.5 9.85786 21.5 14Z" stroke="#29C0E1" stroke-width="3"/>
+<rect x="11.6667" y="-0.00012207" width="5" height="6.78794" rx="2" fill="#29C0E1"/>
+<rect x="11.6666" y="21.2122" width="4.66671" height="6.78794" rx="2" fill="#29C0E1"/>
+<rect x="22.2495" y="2.45049" width="4.66671" height="6.78794" rx="2" transform="rotate(45 22.2495 2.45049)" fill="#29C0E1"/>
+<rect x="7.25012" y="17.4499" width="5" height="6.78794" rx="2" transform="rotate(45 7.25012 17.4499)" fill="#29C0E1"/>
+<rect x="25.5496" y="22.2496" width="5" height="6.78794" rx="2" transform="rotate(135 25.5496 22.2496)" fill="#29C0E1"/>
+<rect x="10.55" y="7.25029" width="5" height="6.78794" rx="2" transform="rotate(135 10.55 7.25029)" fill="#29C0E1"/>
+<rect x="28" y="11.6666" width="5" height="6.78794" rx="2" transform="rotate(90 28 11.6666)" fill="#29C0E1"/>
+<rect x="6.78772" y="11.6666" width="5" height="6.78794" rx="2" transform="rotate(90 6.78772 11.6666)" fill="#29C0E1"/>
+</svg>

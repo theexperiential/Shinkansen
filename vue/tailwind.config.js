@@ -48,6 +48,14 @@ module.exports = {
       'yellow': {
         DEFAULT: '#E1BC29',
         dark: '#E1BC29'
+      },
+      'sky-blue': {
+        DEFAULT: '#29C0E1',
+        dark: '#29C0E1'
+      },
+      'green': {
+        DEFAULT: '#1DE177',
+        dark: '#1DE177'
       }
     }
   },

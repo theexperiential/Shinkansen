@@ -1,5 +1,6 @@
 <template>
   <div class="w-screen h-screen bg-bg-grey">
+    <Menu />
     <div class="flex">
       <Exhibits />
       <States />
@@ -9,6 +10,7 @@
 </template>
 
 <script setup>
+import Menu from './components/Menu.vue'
 import Exhibits from './components/Exhibits.vue'
 import States from './components/States.vue'
 import Footer from './components/Footer.vue'

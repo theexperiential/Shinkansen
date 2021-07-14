@@ -15,8 +15,8 @@
         <a class="
             w-full h-full 
             transition-all
-            bg-bg-selected hover:bg-bg-selected-hover 
-            text-txt-selected hover:text-txt-hover
+            bg-bg-selected  
+            text-txt-selected
             rounded-md flex justify-center items-center" href="#">
             <h1>A</h1>
         </a>
