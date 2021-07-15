@@ -1,9 +1,11 @@
 <template>
-  <div class="w-screen h-16 flex space-x-2 py-2 pr-2 ">
+
+  <div class="h-16 flex flex-none space-x-2 py-2 pr-2 ">
         <StateTab />
         <StateTab />
         <AddBtn /> 
   </div>
+
 </template>
 
 <script>

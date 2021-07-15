@@ -1,11 +1,12 @@
 <template>
-  <div class="w-screen h-screen bg-bg-grey">
-    <Menu />
-    <div class="flex">
-      <Exhibits />
+  <Menu />
+  <div class="flex bg-bg-grey">
+    <Exhibits />
+    <div class="flex flex-col flex-grow">
       <States />
+      <StateView />
+      <Footer />
     </div>
-    <Footer />
   </div>
 </template>
 
@@ -13,6 +14,7 @@
 import Menu from './components/Menu.vue'
 import Exhibits from './components/Exhibits.vue'
 import States from './components/States.vue'
+import StateView from './components/StateView.vue'
 import Footer from './components/Footer.vue'
 
 // This starter template is using Vue 3 experimental <script setup> SFCs
