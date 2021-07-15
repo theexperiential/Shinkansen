@@ -18,6 +18,10 @@ module.exports = {
         DEFAULT: '#345362',
         dark: '#345362',
       },
+      'bg-dark': {
+        DEFAULT: '#002A34',
+        dark: '#002A34'
+      },
       'bg-selected': {
         DEFAULT: '#4D8AA0',
         dark: '#4D8AA0',

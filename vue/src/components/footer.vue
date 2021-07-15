@@ -1,6 +1,15 @@
 <template>
-    <div>
-        <h1> footer </h1>
+    <div class="h-8 flex items-center">
+        <ul>
+            <li>
+                <a
+                    href="#"
+                    class="text-txt-unselected text-xs"
+                >
+                    terms of use
+                </a>
+            </li>
+        </ul>
     </div>
 </template>
 

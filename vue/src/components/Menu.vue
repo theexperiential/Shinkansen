@@ -1,6 +1,6 @@
 <template>
     <!-- menu -->
-    <div class="absolute top-0 right-0 flex p-2 space-x-4 items-center">
+    <div class="absolute top-0 right-0 flex pr-2 space-x-4 items-center">
         <!-- connection status -->
         <div class="w-3 h-3 rounded-full bg-green">
         </div>
