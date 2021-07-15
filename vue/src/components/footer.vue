@@ -1,7 +1,7 @@
 <template>
     <!-- footer -->
     <div>
-        <ul class="h-8 flex items-center space-x-4">
+        <ul class="h-8 flex float-right pr-2 items-center space-x-4">
             <li v-for="link in links" :key="link">
                 <a
                     href="#"
