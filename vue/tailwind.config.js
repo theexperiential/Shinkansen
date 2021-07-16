@@ -22,6 +22,10 @@ module.exports = {
         DEFAULT: '#002A34',
         dark: '#002A34'
       },
+      'bg-darkest': {
+        DEFAULT: '#002128',
+        dark: '#002128'
+      },
       'bg-selected': {
         DEFAULT: '#4D8AA0',
         dark: '#4D8AA0',
@@ -48,6 +52,10 @@ module.exports = {
       },
       'txt-hover': {
         DEFAULT: '#002A34'
+      },
+      'handle': {
+        DEFAULT: '#3B7D95',
+        dark: '#3B7D95'
       },
       'yellow': {
         DEFAULT: '#E1BC29',
